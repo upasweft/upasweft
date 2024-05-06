@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Upas</h1>
 <h3 align="center">full-stack Developer @ WeftTechnologies</h3>
 
-- 🌱 I’m currently learning **Angular 14**
 
 - 📫 How to reach me **upas.nath@wefttechnologies.com**
 
